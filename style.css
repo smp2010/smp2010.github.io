@@ -1,0 +1,24 @@
+{*消しとく
+h1 {
+    color: red;
+    font-size: 200%;
+}
+h2 {
+    color: blue;
+    font-size: 150%;
+}
+*}
+
+
+em.nyan1 {
+	color: blue;
+}
+em.nyan2 {
+	color: green;
+}
+em.nyan3 {
+	color: red;
+}
+strong.nyan4 {
+	color: purple;
+}
